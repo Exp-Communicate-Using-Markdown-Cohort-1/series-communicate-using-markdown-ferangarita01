@@ -20,6 +20,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 # This is our task list
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+
+- [ ] Completar el codigo
+- [ ] Mostrar portafolio
 - [ ] Introduce myself to the world
